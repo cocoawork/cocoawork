@@ -1,18 +1,17 @@
-### Hello,world! Hello everyone! 👏👏
+## Hello,world! Hello everyone! 
+> 我爱编程，编程使我快乐！😊😊
 
-这个人很懒，什么也没留下......
-
-只知道他现在搞`Java`后端开发，曾经从事过`iOS`开发。
-
-这人也没有特别活跃：
-
-![his-commi](https://github-readme-stats.vercel.app/api?username=cocoawork&show_icons=true&theme=radical&count_private=true)
-
-
-至于编程语言：
-
+### 概览
+* GitHub活跃：</br>
+![his-commi](https://github-readme-stats.vercel.app/api?username=cocoawork&show_icons=false&theme=radical&count_private=true)
+* 编程语言：</br>
 ![his-top-lan](https://github-readme-stats.vercel.app/api/top-langs/?username=cocoawork&hide_langs_below=0&theme=default&layout=compact&count_private=true)
 
----
-邮箱: [codezhang123@163.com](codezhang123@163.com) <br/>
-坐标: 河南·郑州
+#### Blog
+* CSDN：[前往](https://blog.csdn.net/u010170540)  
+* 简书：[前往](https://www.jianshu.com/u/28de7df6b875)
+
+### 联系方式
+* 邮箱：codezhang123@163.com
+* QQ：  296832852
+
